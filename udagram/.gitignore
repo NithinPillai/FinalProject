@@ -1,2 +1,2 @@
 node_modules
-git rm --cached udagram/set_env.sh
+git rm udagram/set_env.sh
