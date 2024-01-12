@@ -1,5 +1,8 @@
 # Hosting a Full-Stack Application
 
+## LINK TO WEBSITE
+http://nithinsfinalprojectbucket.s3-website-us-east-1.amazonaws.com/home
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
@@ -70,3 +73,4 @@ The e2e tests are using Protractor and Jasmine.
 ## License
 
 [License](LICENSE.txt)
+
