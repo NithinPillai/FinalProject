@@ -1,1 +1,1 @@
-udagram/set_env.sh
+git rm --cached udagram/set_env.sh
